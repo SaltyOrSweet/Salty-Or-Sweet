@@ -25,6 +25,6 @@
 
 店铺地址：成都市高新区银泰城3楼
 
-<img src="https://github.com/SaltyOrSweet/Salty-Or-Sweet/blob/master/image/wx.jpg" height="30%" width="30%">
+<img src="https://github.com/SaltyOrSweet/Salty-Or-Sweet/blob/master/image/wx.jpg?raw=true" height="30%" width="30%">
 
 
