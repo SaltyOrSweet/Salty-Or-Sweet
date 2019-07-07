@@ -17,6 +17,14 @@
 
 所有的配方我会在这里分享出来， 有问题，有需求可以跟我交流。
 
+## 配方目录
+
+* [柔风吐司](https://github.com/SaltyOrSweet/Salty-Or-Sweet/blob/master/%E6%9F%94%E9%A3%8E%E5%90%90%E5%8F%B8.md)
+
+## 订餐
+
+店铺地址：成都市高新区银泰城3楼
+
 <img src="https://github.com/SaltyOrSweet/Salty-Or-Sweet/blob/master/image/wx.jpg" height="30%" width="30%">
 
 
